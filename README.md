@@ -1,0 +1,1 @@
+Portafolio web de los trabajos que he hecho hasta el momento, se mantendrá actualizado con nuevos trabajos y con otro tipo de trabajos que no solo sean de desarrollo web, está en desarrollo y perfeccionamiento todavía.
